@@ -46,18 +46,25 @@ La page se compose de deux partie:
 
 
  2. **Multimédia**: vous pourrez sur cette partie utiliser les outils suivant: 
-    - L'affichage de **votre profil** (ou d'une bannière de connexion). Nous avons décidé d'inventer un mini réseau social permettant à tous les membres inscrit sur GoodWork de voir les différentes informations d'un membres à partir d'une simple recherche. Vous aurez accès à ces travaux effectués, ceux en cours par exemple avec des liens (liens direct si le projet est finie ou GitHub, ...). Mais aussi à ces réseaux sociaux, Facebook, Twitter, Linkedin, ... . Pour finir, on ne vous oblige en rien a indiquer ces informations.
+    - L'affichage de **votre profil** (ou d'une bannière de connexion). Nous avons décidé d'inventer un mini réseau social permettant à tous les membres inscrit sur GoodWork de voir les différentes informations d'un membres à partir d'une simple recherche. Vous aurez ainsi accès à ses travaux effectués et/ou ceux en cours par exemple avec des liens (liens direct si le projet est finie ou GitHub, ...). Mais aussi à ces réseaux sociaux, Facebook, Twitter, Linkedin, ... . Pour finir, on ne vous oblige en rien a indiquer ces informations. C'est à vous de decider quoi afficher ou non.
     - Un **lecteur** de **vidéo Youtube** avec recherches et résultats en direct 
     - Un **lecteur** de **musique** à partir de **Deezer** avec recherches et résultats en direct 
     - Une partie **réseaux sociaux** regroupant les réseaux sociaux tel que **Twitter** et **Facebook**
     - Une partie **game** ou vous pourrez jouer à différents jeux tel que **spaceinvader** ou **Tetris**
     - Un **navigateur** au cas où vous aillez besoin d'une page internet que nous ne vous proposons pas (partie multimédia)
 
-
+======
 
 Vous pourrez donc écouter de la musique, regarder une vidéo, et travailler sur un même écran, sur une même fenêtre, dans un même onglet.
 
-GoodWork: l'art d'optimiser votre travail en le combinant avec tout vos
+======
+
+GoodWork: l'art d'optimiser votre travail en le combinant avec tout le monde du multimédia.
+
+
+=====
+
+ADAM Aurélien - JOUBERT Adrien - LEMAIRE Robin - POTHIN Jean Philippe
 
               
 
