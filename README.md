@@ -1,7 +1,7 @@
 #GoodWork
 ##http://www.goodworkonline.com/
 
-Combine work and pleasure whenever you are - PHP Yii - Javascript - JQuery - HTML5
+Combine work and pleasure wherever you are - PHP Yii - Javascript - JQuery - HTML5
 
 =======
 
