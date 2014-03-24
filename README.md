@@ -29,7 +29,7 @@ GoodWork va vous offrir une multitude d'options sur une seule et unique page. Vo
 
 Ainsi, nous avons intégré au sein de notre application web d'autres applications qui, avec un simple système de menus, permet de réunir tous les sites en un seul. Pour les sites autorisant cette intégration, le nouvel attribut Sandbox des objets Iframe nous permet d'isoler chaque application (et notamment la prise en main d'une application sur l'application mère). Pour les sites n'autorisant pas cette intégration (tel que Facebook), nous avons utilisé un serveur proxy full php Glype qui s'appui sur des requêtes Curl pour retranscrire les données des clients. Son paramétrage strict refuse toute autre utilisation détournée. Ainsi, il est possible de créer un document tout en écoutant sa musique et en communiquant avec ses amis le tout simplement intégré dans une seule et même page web.
 {:.center}![Logo Glype](http://dwis-mwberz.pun.bz/files/glype.png "Logo Glype")
-
+->![Logo Glype](http://dwis-mwberz.pun.bz/files/glype.png "Logo Glype")<-
 
 La page se compose de deux parties:
  1. **Work**: vous pourrez sur cette partie travailler avec les outils suivants: 
