@@ -3,8 +3,6 @@
 ##http://www.goodworkonline.com/
 
 
-=======
-
 Version Alpha n°1
 
 =======
