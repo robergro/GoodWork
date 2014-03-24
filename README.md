@@ -2,7 +2,6 @@ GoodWork
 
 ========
 
-http://www.goodworkonline.com/
 
 ========
 
@@ -22,7 +21,7 @@ Cette application web est développée dans le langage-objet PHP. De plus, nous 
 
 
 
-Cette application web utilise le langage de programmation **PHP 5.5**. Afin de facilité et d'améliorer la conception de GoodWork, nous avons utilisé le framework: **Yii Framework**.
+Cette application web utilise le langage de programmation **PHP 5.5**. Afin de faciliter et d'améliorer la conception de GoodWork, nous avons utilisé le framework: **Yii Framework**.
 ![Logo Yii Framework](http://static.yiiframework.com/files/logo/yii.png "Logo Yii Framework")
 
 
@@ -69,7 +68,6 @@ GoodWork: l'art d'optimiser votre travail en le combinant avec tout le monde du 
 
 ========
 
-http://www.goodworkonline.com/
 
 ========
 
