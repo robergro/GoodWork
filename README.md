@@ -1,7 +1,5 @@
 #GoodWork
-##http://www.goodworkonline.com/#
-
-========
+##http://www.goodworkonline.com/
 
 Combine work and pleasure whenever you are - PHP Yii - Javascript - JQuery - HTML5
 
@@ -11,7 +9,7 @@ Version Alpha n°1
 
 =======
 
-GoodWork est un projet réalisé au cours de notre dernière année à l'ISTIA (École d'ingénieurs à Angers en France).
+**GoodWork** est un projet réalisé au cours de notre dernière année à l'ISTIA (École d'ingénieurs à Angers en France).
 
 Cette application web est développée dans le langage-objet PHP. De plus, nous avons fait le choix d'utiliser le Framework MVC nommé Yii.
 
