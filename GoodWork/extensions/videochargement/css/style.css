@@ -1,0 +1,85 @@
+.wrapper {
+    position: absolute;
+    width: 500%;
+    height: 100%;
+    z-index: 0;
+}
+
+
+
+/* Header */
+
+#chargement {
+    font-size: 4em;
+    text-align: center;
+    position: relative;
+    top: 15%;
+    width: 100%;
+}
+
+#chargement-infos {
+    text-align:right;
+    white-space: nowrap;
+    display: block;
+    border-bottom:4px solid #fff;
+    width: 0%;
+}
+
+
+header {
+    position: absolute;
+    z-index: 999;
+    color: #fff;
+    width: 80%;
+    height: 40%;
+    border-radius: 50%;
+    top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Gill Sans';
+}
+
+header h1 {
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1);
+    padding: 0 0 10px 0;
+    font-size: 1.7em;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.8);
+}
+
+header h1 span {
+    font-weight: 300;
+}
+
+header p {
+    font-family: Cambria, Georgia, serif;
+    font-style: italic;
+}
+
+/* Video Pages */
+
+.screen {
+    position: relative;
+    height: 100%;
+    width: 20%; /*  NOTE: numVideos/100%  */;
+    float: left;
+    overflow: hidden;
+}
+
+.big-image {
+    min-width: 100%;
+    min-height: 100%;
+    height: auto;
+    width: auto;
+}
+
+.video-title {
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    opacity: .5;
+    margin: 40px 0 0 0;
+    padding: 0;
+    line-height: .65;
+    font-size: 4em;
+    text-transform: uppercase;
+}

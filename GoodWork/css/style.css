@@ -1,0 +1,479 @@
+html, body, #set-6, #body, .scroller {
+  overflow: hidden;
+  height: 100%;
+
+}
+
+#imgStart{
+  margin-top: 5%;
+}
+
+@media screen and (max-width: 810px) {
+  #imgStart{
+    margin-top: 10%;
+  }
+}
+
+
+.messageAccueil{
+  color: #2c3e50;
+}        
+
+
+#tools {
+  margin-top:20px;
+}
+
+#tools .toolbutton {
+  width: 100%;  
+  float:left;
+  margin-right:5px;
+  padding: 5px;
+  border: 1px solid #999;
+  border-radius:8px;
+  background-color: #eee;
+}
+
+#popupJQ{
+  height: 100%;
+}
+
+
+/* CONTENT STYLING */
+#preview p, dt, dd, a, h1, h2, h3 {
+  color: #fff;
+}
+
+#preview p, dt, dd {
+font-size: 18px;
+line-height: 15px;
+text-align: justify;
+margin-bottom:10px;
+}
+
+#preview pre, blockquote {
+line-height: 1.714em;
+margin-bottom: 1.714em;
+}
+
+#preview h1 {
+font-size: 24px;
+line-height: 30px;
+margin-top: 20px;
+margin-bottom: 15px;
+}
+
+#preview h2 {
+font-size: 20px;
+line-height: 24px;
+margin-top: 14px;
+margin-bottom: 10px;
+}
+
+#preview h3 {
+font-size: 14px;
+line-height: 18px;
+margin-top: 10px;
+margin-bottom: 8px;
+}
+
+#preview h4 {
+font-size: 12px;
+line-height: 14px;
+margin-top: 10px;
+margin-bottom: 8px;
+}
+
+#preview hr {
+margin-top: 1.6em;
+}
+
+#preview input {
+font-size: 1.0em;
+}
+
+#preview ul {
+list-style: square;
+}
+
+#preview li {
+padding-bottom:10px;
+}
+#preview a {
+color:#069;
+text-decoration: none;
+}
+#preview a:hover {
+text-decoration: underline;
+}
+
+#preview blockquote {
+  margin-left:5px;
+  padding:1px;
+  padding-left:10px;
+  padding-right:10px;
+  border-left:1px solid #999;
+  background-color:#eee;
+}
+
+#preview code, pre {
+	font-family: Consolas, 'Bitstream Vera Sans Mono', 'Courier New', Courier, monospace;
+  background-color:#eee;
+  font-size:1.0em;
+}
+
+#preview pre {
+  padding:5px;
+  margin-left:5px;
+  display:block;
+  width:auto;
+  overflow: auto !important;
+}
+
+/* HAX: Disable all borders from prettify */
+#preview pre *, #preview code {
+  border:none !important;
+}
+
+#preview code {
+  display:inline;
+}
+
+#preview ul, #preview ol {
+  margin-left:20px;
+}
+
+
+
+
+/*ICONE RESEAUX SOCIAUX */
+
+
+.iconsRS a{
+    display: inline-block;
+    margin-left: 4%;
+    margin-right: 2%;
+    vertical-align: middle;
+    -o-transition: all .3s;
+    -moz-transition: all .3s;
+    -webkit-transition: all .3s;
+    -ms-transition: all .3s;
+    width: 24px;
+    height: 24px;
+    opacity: 1;
+}
+
+.iconsRS a:hover{
+    opacity: 0.6;
+}
+
+.iconsRS a.twitter { background: url(../images/reseauxsociaux/twitter.png) left bottom no-repeat; }
+.iconsRS a.flickr { background: url(../images/reseauxsociaux/flickr.png) left bottom no-repeat; }
+.iconsRS a.vimeo { background: url(../images/reseauxsociaux/vimeo.png) left bottom no-repeat; }
+.iconsRS a.linkedin { background: url(../images/reseauxsociaux/linkedin.png) left bottom no-repeat; }
+.iconsRS a.facebook { background: url(../images/reseauxsociaux/facebook.png) left bottom no-repeat; }
+.iconsRS a.email { background: url(../images/reseauxsociaux/email.png) left bottom no-repeat; }
+.iconsRS a.netvibes { background: url(../images/reseauxsociaux/netvibes.png) left bottom no-repeat; }
+.iconsRS a.github { background: url(../images/reseauxsociaux/github.png) left bottom no-repeat; }
+.iconsRS a.tumblr { background: url(../images/reseauxsociaux/tumblr.png) left bottom no-repeat; }
+.iconsRS a.googleplus { background: url(../images/reseauxsociaux/googleplus.png) left bottom no-repeat; }
+
+
+.iconsMultimedia{
+  position: relative;
+  margin-left: 1%;
+  width: 50px;
+}
+
+/*ICONE MULTIMEDIA */
+.iconsMultimedia a{
+    display: block;
+    vertical-align: middle;
+    -o-transition: all .3s;
+    -moz-transition: all .3s;
+    -webkit-transition: all .3s;
+    -ms-transition: all .3s;
+    width: 40px;
+    height: 40px;
+    margin-bottom: 3px;
+    opacity: 1;
+
+}
+
+.iconsMultimedia a:hover{
+    opacity: 0.6;
+}
+
+
+.iconsMultimedia a.profil { background: url(../images/multimedia/profil.png) left bottom no-repeat; }
+.iconsMultimedia a.music { background: url(../images/multimedia/music.png) left bottom no-repeat;  }
+.iconsMultimedia a.video { background: url(../images/multimedia/video.png) left bottom no-repeat; }
+.iconsMultimedia a.socialnetwork { background: url(../images/multimedia/twitter.png) left bottom no-repeat; }
+.iconsMultimedia a.facebook {background : url(../images/multimedia/facebook.png) left bottom no-repeat; }
+.iconsMultimedia a.game { background: url(../images/multimedia/game.png) left bottom no-repeat; }
+
+
+/*ICONE WORK */
+.iconsWORK{
+    margin-top: 3px;
+    margin-right: 10px;
+    float: right;
+    margin-bottom: 10px;
+}
+
+.iconsWORK a{
+    display: inline-block;
+    vertical-align: middle;
+    -o-transition: all .3s;
+    -moz-transition: all .3s;
+    -webkit-transition: all .3s;
+    -ms-transition: all .3s;
+    width: 40px;
+    height: 40px;
+    opacity: 1;
+}
+
+.iconsWORK a:hover{
+    opacity: 0.6;
+}
+
+
+.iconsWORK a.codeall { background: url(../images/work/codeall.png) left bottom no-repeat; }
+.iconsWORK a.codew { background: url(../images/work/codew.png) left bottom no-repeat;  }
+.iconsWORK a.correct { background: url(../images/work/correct.png) left bottom no-repeat; }
+.iconsWORK a.markdown { background: url(../images/work/markdown.png) left bottom no-repeat; }
+.iconsWORK a.slides { background: url(../images/work/slides.png) left bottom no-repeat; }
+.iconsWORK a.writte { background: url(../images/work/writte.png) left bottom no-repeat; }
+.iconsWORK a.internet, .iconsMultimedia a.internet  { background: url(../images/work/internet.png) left bottom no-repeat; }
+
+
+
+
+/*ICONE MUSIC */
+.iconsMusic{
+    margin-top: -10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    position: relative;
+    float: right;
+}
+
+.iconsMusic a{
+    display: inline-block;
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    opacity: 1;
+}
+
+.iconsMusic a:hover{
+    opacity: 0.6;
+}
+
+.iconsMusic a.deezer { background: url(../images/multimedia/music/deezer.png) left bottom no-repeat; }
+.iconsMusic a.spotify { background: url(../images/multimedia/music/spotify.png) left bottom no-repeat;  }
+.iconsMusic a.grooveshark { background: url(../images/multimedia/music/grooveshark.png) left bottom no-repeat; }
+
+#affichageDeezer{
+  margin-left: 10px;
+}
+
+
+
+#affichageSocialNetwork{
+  position: relative;
+  margin-top: 10px;
+}
+
+
+
+
+
+
+#content{
+  clear: right; /* pour enlever le flaot right de iconsWORK */
+}
+
+#affichageMarkdown{
+  margin-top: 400px;
+}
+
+
+
+/*FILTRE styles*/
+.saturate {-webkit-filter: saturate(3);}
+.grayscale {-webkit-filter: grayscale(100%);}
+.contrast {-webkit-filter: contrast(160%);}
+.brightness {-webkit-filter: brightness(0.25);}
+.blur {-webkit-filter: blur(3px);}
+.invert {-webkit-filter: invert(100%);}
+.sepia {-webkit-filter: sepia(100%);}
+.huerotate {-webkit-filter: hue-rotate(180deg);}
+.rss.opacity {-webkit-filter: opacity(50%);}
+
+
+.menu-trigger {
+  position: relative;
+  padding-left: 60px;
+  height: 30px;
+  font-size: 0.9em;
+  font-family: 'Lato', Calibri, Arial, sans-serif;
+
+  background-image: url(../images/slide.png) ;
+  background-repeat: no-repeat ; 
+  opacity: 1;
+}
+
+.menu-trigger:hover {
+  opacity: 0.6;
+}
+
+
+
+
+/* LECTEUR VIDEO YOUTUBE */
+#result, .search_input
+{
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+
+.search_input
+{
+  border:2px solid #333;
+  font-size:20px;
+  padding:5px;
+  font-family:'Georgia', Times New Roman, Times, serif;
+  -moz-border-radius:5px;-webkit-border-radius:5px;
+
+  z-index: 10000;
+  position: relative;
+}
+
+#input_box
+{
+  text-align:left;
+}
+
+
+#result
+{
+  background-color:#eee;
+  margin-top:25px;
+  border:solid 10px;
+  -moz-border-radius:9px;
+  -webkit-border-radius:9px;
+
+}
+
+.videoYtb{
+  min-height: 60%;
+  width:100%;
+  margin-bottom: -3px;
+}
+
+#no
+{
+  padding:30px;
+  font-size:24px;
+  color:#fff;
+}
+
+#titlevideoYtb
+{
+  font-size:14px;
+  text-align:left;
+  padding-bottom:6px;
+}
+
+#count
+{
+  text-align:left;
+  padding-top:8px;
+}
+
+
+
+/************* AUTOCOMPLETE */
+/* http://docs.jquery.com/UI/Autocomplete#theming*/
+.ui-autocomplete { position: absolute; cursor: default; background:#CCC }   
+
+/* workarounds */
+html .ui-autocomplete { width:1px; } /* without this, the menu expands to 100% in IE6 */
+.ui-menu {
+    list-style:none;
+    padding: 2px;
+    margin: 0;
+    display:block;
+    overflow: none;
+    height: 40%;
+}
+.ui-menu .ui-menu {
+    margin-top: -3px;
+}
+.ui-menu .ui-menu-item {
+    margin:0;
+    padding: 0;
+    zoom: 1;
+    float: left;
+    clear: left;
+    width: 100%;
+}
+.ui-menu .ui-menu-item a {
+    text-decoration:none;
+    display:block;
+    padding:.2em .4em;
+    line-height:1.5;
+    zoom:1;
+}
+.ui-menu .ui-menu-item a.ui-state-hover,
+.ui-menu .ui-menu-item a.ui-state-active {
+    font-weight: normal;
+    margin: -1px;
+}
+
+.ui-helper-hidden-accessible { display:none; }
+
+.ui-autocomplete {
+    background: rgba(230,230,230, 0.9);
+    border-radius: 0px;
+}
+.ui-autocomplete.source:hover {
+    background: #454545;
+}
+
+.ui-menu{
+    overflow: scroll;
+}
+
+.ui-menu .ui-menu-item a{
+    color: #333;
+    height:30px;
+    font-size:18px;
+    border: none;
+}
+
+#selectUsername{
+  font-size: 30px;
+  text-align: center;
+}
+/************* FIN AUTOCOMPLETE */
+
+
+
+
+/*On caches les élements au démarrage*/
+#set-6, #bt-menu{
+    visibility: hidden;
+}
+
+#container {
+    visibility: hidden;
+}
+
+#images{
+    visibility: hidden;
+}
+
