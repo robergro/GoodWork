@@ -1,4 +1,9 @@
 GoodWork
+
+========
+
+http://www.goodworkonline.com/
+
 ========
 
 Combine work and pleasure whenever you are - PHP Yii - Javascript - JQuery - HTML5
@@ -62,7 +67,11 @@ Vous pourrez donc écouter de la musique, regarder une vidéo, et travailler sur
 GoodWork: l'art d'optimiser votre travail en le combinant avec tout le monde du multimédia.
 
 
-=====
+========
+
+http://www.goodworkonline.com/
+
+========
 
 ADAM Aurélien - JOUBERT Adrien - LEMAIRE Robin - POTHIN Jean Philippe
 
