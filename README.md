@@ -9,15 +9,12 @@ Version Alpha n°1
 
 **GoodWork** est un projet réalisé au cours de notre dernière année à l'ISTIA (École d'ingénieurs à Angers en France).
 
-Cette application web est développée dans le langage-objet PHP. De plus, nous avons fait le choix d'utiliser le Framework MVC nommé Yii.
-De plus nous utilisons Javascript et la librairie Jquery. L'architecture AJAX est utilisé pour une meilleur naviguation sur l'application.
-
-=======
-
-
 
 Cette application web utilise le langage de programmation **PHP 5.5**. Afin de faciliter et d'améliorer la conception de GoodWork, nous avons utilisé le framework: **Yii Framework**.
 ![Logo Yii Framework](http://static.yiiframework.com/files/logo/yii.png "Logo Yii Framework")
+
+
+Nous utilisons aussi le Javascript et la librairie Jquery. L'architecture AJAX est utilisé pour une meilleur naviguation sur l'application.
 
 
 Le  système de gestion de base de données (SGBD) utilisé est : **MySQL**. De plus, nous utilisons **phpMyAdmin**, un outil de gestion de bases de données MySQL écrit en PHP.
